@@ -1,0 +1,18 @@
+Tên User: ADMIN
+Mật khẩu: 123
+Vai Trò: Admin
+Email: AD@email.com
+Địa chỉ: 123
+Tuổi: 18
+SDT: 435658
+Giới tính: Nam
+---------------------------------
+Tên User: ADMIN
+Mật khẩu: 123
+Vai Trò: Admin
+Email: AD@email.com
+Địa chỉ: 123
+Tuổi: 18
+SDT: 435658
+Giới tính: Nam
+---------------------------------
